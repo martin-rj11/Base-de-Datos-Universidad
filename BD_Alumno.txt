@@ -1,0 +1,33 @@
+* ALUMNO 1 *
+Nombre:  
+Boleta:  Pancho
+Direccion:  a
+Telefono:  55845
+Correo Electronico:  @
+Plantel:  ESIME
+
+* PERIODO ACADEMICO *
+Periodo:  4
+Turno:  V
+Promedio:  8
+Creditos Cursados:  76
+Creditos Totales :  100
+Creditos Restantes:  20
+
+Estado:  Regular
+Carga Min:  40
+Carga Med:  0
+Carga Max:  21
+Dictamen Gen.:  1
+Dictamen COSIE:  1
+
+* ASIGNATURAS*
+Nombre:  Disposivos
+Clave:  5CV11
+Grupo:  1
+Profesor:  Hilario
+Departamental 1:  5
+Departamental 2:  5
+Departamental 3:  8
+Creditos:  23
+
